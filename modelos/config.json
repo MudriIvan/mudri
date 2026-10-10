@@ -1,0 +1,25 @@
+{
+  "_ajuda": "Campos que começam com _ são ignorados. Depois de mudar, saia do assistente (ícone perto do relógio > Sair) e abra de novo.",
+
+  "nome": "Max",
+  "usuario": "Ivan",
+
+  "_pastasProjetos": "Pastas que o assistente pode ler além do hub. Troque pela pasta onde ficam seus repositórios.",
+  "pastasProjetos": [
+    "%USERPROFILE%\\Documents\\projetos"
+  ],
+
+  "hub": "%USERPROFILE%\\.assistente\\hub",
+  "atalho": "Ctrl+Alt+Space",
+
+  "_claudePath": "Vazio = procura sozinho (instalador nativo, PATH, npm). Preencha se ele não achar.",
+  "claudePath": "",
+
+  "_gitBashPath": "Só se o Claude Code reclamar que não acha o Git Bash. Ex.: C:\\Program Files\\Git\\bin\\bash.exe",
+  "gitBashPath": "",
+
+  "_modelo": "Vazio = o padrão do seu Claude Code.",
+  "modelo": "",
+
+  "_listas": "ferramentasLeitura, bloqueadasLeitura e bloqueadasAcao também podem ser definidas aqui; sem elas valem as listas padrão descritas no README."
+}
